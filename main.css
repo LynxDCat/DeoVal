@@ -63,11 +63,17 @@ ul li {
   list-style-type: none;
 }
 
-.menu-container ul li {
+.menu-container ul li a {
   font-family: "Poppins";
   font-size: 1.125rem; /* 18px */
   color: white;
+  text-decoration: none; /* Optional, removes underline */
 }
+
+.menu-container ul li a:visited {
+  color: white; /* Optional: Ensures visited links don't change color */
+}
+
 
 .hr-line {
   margin: 1.875rem 6.140625rem; /* 30px 98.25px */

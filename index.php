@@ -10,6 +10,9 @@
             case 'Contact':
                 include "includes/contact.php";
                 break;
+            case 'About':
+                include "includes/aboutus.php";
+                break;
 			case 'Products':
                 include "includes/prdct-page-grid.php";
                 include "includes/prdct-page-blog.php";

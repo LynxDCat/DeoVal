@@ -1206,8 +1206,180 @@ textarea {
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 
+/* about section */
+.ab-hr-line {
+  margin: 1.40625rem 4.60546875rem; /* 3/4 of original */
+  margin-top: 111px; /* 3/4 of 148px */
+  justify-content: center;
+}
+.ab-main-container {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  justify-content: center;
+  text-align: center; 
+}
+.ab-main-container h1 {
+  margin-top: 75px; /* 3/4 of 100px */
+  color: #FFF;
+  text-align: center;
+  font-family: Poppins;
+  font-size: 48.75px; /* 3/4 of 65px */
+  font-style: normal;
+  font-weight: 700;
+  text-transform: capitalize;
+}
+.ab-main-container label {
+  color: #FFF;
+  text-align: center;
+  font-family: Poppins;
+  font-size: 24px; /* 3/4 of 32px */
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.ab-founders-section {
+  text-align: center;
+  background-color: #ffffff; 
+  margin: 1.40625rem auto; /* 3/4 of 1.875rem */
+  width: 78.75rem; /* 3/4 of 105rem */
+  height: 50.625rem; /* 3/4 of 67.5rem */
+  padding-left: 4.5rem; /* 3/4 of 6rem */
+  padding-right: 4.5rem; /* 3/4 of 6rem */
+  padding-top: 5.25rem; /* 3/4 of 7rem */
+  border: 0.234375rem solid #dcdcdc; /* 3/4 of 0.3125rem */
+  border-radius: 7.5px; /* 3/4 of 10px */
+}
+.ab-founders-section img {
+  width: 33.84375rem; /* 3/4 of 45.125rem */
+  height: 8.53125rem; /* 3/4 of 11.375rem */
+}
+.ab-founders-container {
+  display: flex;
+  justify-content: center;
+  gap: 37.5px; /* 3/4 of 50px */
+  flex-wrap: wrap;
+}
+.ab-profile-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 9.375rem; /* 3/4 of 12.5rem */
+  border: 4.5px solid #2a3d32; /* 3/4 of 6px */
+  padding-top: 4.5rem; /* 3/4 of 6rem */
+  padding-bottom: 2.25rem; /* 3/4 of 3rem */
+  padding-left: 6rem; /* 3/4 of 8rem */
+  padding-right: 6rem; /* 3/4 of 8rem */
+  margin: 30px auto; /* 3/4 of 40px */
+  width: 60%; /* 3/4 of 80% */
+  background-color: #fff; 
+  border-radius: 7.5px; /* 3/4 of 10px */
+  box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.8); /* 3/4 of 4px */
+}
+.ab-profile {
+  text-align: center;
+}
+.ab-profile img {
+  width: 18.75rem; /* 3/4 of 25rem */
+  height: 18.75rem; /* 3/4 of 25rem */
+  border-radius: 50%; 
+}
+.ab-profile p {
+  margin-top: 1.5rem; /* 3/4 of 2rem */
+  color: #2a3d32;
+  font-family: Poppins;
+  font-size: 1.5rem; /* 3/4 of 2rem */
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  text-transform: capitalize;
+}
+.ab-landing-page-abtus {
+  display: flex;
+  background-color: #2a3d32;
+  padding: 7.06640625rem 8.33203125rem; /* 3/4 of 9.421875rem and 11.109375rem */
+  justify-content: center;
+  margin-top: 0.75rem; /* 3/4 of 1rem */
+}
+.ab-lp-abtus-container {
+  display: flex;
+  gap: 2.8828125rem; /* 3/4 of 3.84375rem */
+  justify-content: center;
+  align-items: center;
+}
+.ab-lp-abtus-container img {
+  width: 32.296875rem; /* 3/4 of 43.0625rem */
+  height: 30.609375rem; /* 3/4 of 40.8125rem */
+}
+.ab-lp-abtus-container h3 {
+  color: #FFF;
+  font-family: Poppins;
+  font-size: 1.125rem; /* 3/4 of 1.5rem */
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+.ab-lp-abtus-container h1 {
+  color: #FFF;
+  font-family: Poppins;
+  font-size: 2.53125rem; /* 3/4 of 3.375rem */
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  text-transform: capitalize;
+}
+.ab-lp-abtus-container p {
+  color: #FFF;
+  text-align: justify;
+  font-family: Poppins;
+  font-size: 1.125rem; /* 3/4 of 1.5rem */
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.ab-mission-vision-container {
+  width: 78.75rem; /* 3/4 of 105rem */
+  height: 26.25rem; /* 3/4 of 35rem */
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin: 1.875rem auto; /* 3/4 of 2.5rem */
+  padding: 3.75rem; /* 3/4 of 5rem */
+  background-color: #fff; 
+  border-radius: 7.5px; /* 3/4 of 10px */
+}
+.ab-mission, .ab-vision {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 45% /* 3/4 of 45% */
+}
+.ab-mission h2, .ab-vision h2 {
+  color: #2A3D32;
+  text-align: center;
+  font-family: Poppins;
+  font-size: 2.53125rem; /* 3/4 of 3.375rem */
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  text-transform: capitalize;
+}
+.ab-mission p, .ab-vision p {
+  color: #2A3D32;
+  text-align: justify;
+  font-family: Poppins;
+  font-size: 1.125rem; /* 3/4 of 1.5rem */
+  font-style: normal;
+  font-weight: 400;33.7
+  line-height: normal;
+}
+.ab-divider {
+  width: 0.1875rem; /* 3/4 of 0.25rem */
+  background-color: #2A3D32; 
+  height: auto; 
+  margin: 0 0.46875rem; /* 3/4 of 0.625rem */
+  align-self: stretch;
+}
 
-
-
-
-
+/* end about section */

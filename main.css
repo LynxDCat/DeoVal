@@ -862,6 +862,7 @@ footer {
   height: auto;
 }
 
+/* BLOG DETAIL*/
 .bd-title-container {
   height: 100vh;
   width: auto;
@@ -890,11 +891,11 @@ footer {
   color: white;
 }
 
-.bd-package-fullcontainer {
+.bd-fullcontainer {
   background-color: white;
 }
 
-.bd-package-container {
+.bd-container {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -902,12 +903,12 @@ footer {
   padding-top: 7.6875rem; /* 123px / 16 */
 }
 
-.bd-package-container img {
+.bd-container img {
   height: 27.9375rem; /* 447px / 16 */
   width: auto;
 }
 
-.bd-package-fullcontainer h1 {
+.bd-fullcontainer h1 {
   font-family: Poppins;
   font-size: 2.53125rem; /* 40.5px / 16 */
   font-weight: bold;
@@ -918,7 +919,7 @@ footer {
   padding-bottom: 0;
 }
 
-.bd-package-fullcontainer p {
+.bd-fullcontainer p {
   font-family: Poppins;
   font-size: 1.5rem; /* 24px / 16 */
   justify-content: center;

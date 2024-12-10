@@ -1,6 +1,6 @@
-<section class="blog-detail-package">
-    <section class="bd-package-fullcontainer">
-    <div class="bd-package-container">
+<section id="Blog1" class="blog-detail">
+    <section class="bd-fullcontainer">
+    <div class="bd-container">
         <img src="images/blog1-img-1.png" alt="Pandemic Blog Image 1" />
         <img src="images/blog1-img-2.png" alt="Pandemic Blog Image 2" />
         <img src="images/blog1-img-3.png" alt="Pandemic Blog Image 3" />

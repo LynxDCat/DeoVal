@@ -8,8 +8,9 @@
 		
 		switch ($page){
 			case 'About':
-
 				break;
+            case 'Blogs':
+                break;
 		}
 	} 
 	else{

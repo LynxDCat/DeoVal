@@ -848,14 +848,234 @@ footer{
     height: auto;
 }
 
-
-
-
-
 /*Products CSS*/
+.products-grid{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 100px;
+}
+
 .products-grid h1{
   font-family: 'Poppins';
   font-size: 54px;
   font-weight: bold;
   color: white;
+  margin-top: 8.5rem;
+  text-align: center;
+}
+.product-grid-container1 .product-grid-container{
+  display: grid;
+  place-items: center;
+}
+
+.product-grid-container1 .prdct-cell{
+  display: flex;
+  text-align: center;
+  color: white;
+  font-family: 'Poppins';
+  font-size: 18px;
+  font-weight: bold;
+  gap: 68.25px;
+  
+}
+
+.product-grid-container1 .prdct-cell svg{
+  display: flex;
+  height: 220.5px;
+  width: 220.5px;
+  padding: 27px 48px;
+  border-radius: 15px;
+  justify-content: center;
+  align-items: center;
+  background-color: #FFF2E2;
+}
+
+.product-grid-container2 h1{
+  font-family: 'Poppins';
+  font-size: 54px;
+  font-weight: bold;
+  color: white;
+  margin-top: 8.5rem;
+  text-align: center;
+}
+
+.product-grid-container2 .product-grid-container{
+  display: grid;
+  place-items: center;
+}
+
+.product-grid-container2 .prdct-cell{
+  display: flex;
+  text-align: center;
+  color: white;
+  font-family: 'Poppins';
+  font-size: 18px;
+  font-weight: bold;
+  gap: 68.25px;
+  
+}
+
+.product-grid-container2 .prdct-cell svg{
+  display: flex;
+  height: 220.5px;
+  width: 220.5px;
+  padding: 27px 48px;
+  border-radius: 15px;
+  justify-content: center;
+  align-items: center;
+  background-color: #FFF2E2;
+}
+
+.product-grid-container3 h1{
+  font-family: 'Poppins';
+  font-size: 54px;
+  font-weight: bold;
+  color: white;
+  margin-top: 8.5rem;
+  text-align: center;
+}
+
+.product-grid-container3 .product-grid-container{
+  display: grid;
+  place-items: center;
+}
+
+.product-grid-container3 .prdct-cell{
+  display: flex;
+  text-align: center;
+  color: white;
+  font-family: 'Poppins';
+  font-size: 18px;
+  font-weight: bold;
+  gap: 68.25px;
+  
+}
+
+.product-grid-container3 .prdct-cell svg{
+  display: flex;
+  height: 220.5px;
+  width: 220.5px;
+  padding: 27px 48px;
+  border-radius: 15px;
+  justify-content: center;
+  align-items: center;
+  background-color: #FFF2E2;
+}
+
+.product-grid-container4 h1{
+  font-family: 'Poppins';
+  font-size: 54px;
+  font-weight: bold;
+  color: white;
+  margin-top: 8.5rem;
+  text-align: center;
+}
+
+.product-grid-container4 .product-grid-container{
+  display: grid;
+  place-items: center;
+}
+
+.product-grid-container4 .prdct-cell{
+  display: flex;
+  text-align: center;
+  color: white;
+  font-family: 'Poppins';
+  font-size: 18px;
+  font-weight: bold;
+  gap: 68.25px;
+  
+}
+
+.product-grid-container4 .prdct-cell svg{
+  display: flex;
+  height: 220.5px;
+  width: 220.5px;
+  padding: 27px 48px;
+  border-radius: 15px;
+  justify-content: center;
+  align-items: center;
+  background-color: #FFF2E2;
+}
+
+.prdct-page-blog {
+  background-color: white;
+  padding: 9.1875rem 7.59375rem; /* 147px 121.5px */
+}
+
+.prdct-blog-title {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 1.875rem; /* 30px */
+}
+
+
+.prdct-page-blog h2 {
+  text-align: center;
+  font-family: 'Poppins';
+  font-size: 2.53125rem; /* 40.5px */
+  font-weight: bold;
+  width: 48.125rem; /* 770px */
+  margin-top: -0.625rem; /* -10px */
+}
+
+.prdct-blog-1, .prdct-blog-3, .prdct-blog-5,  .prdct-blog-7, 
+.prdct-blog-9,  .prdct-blog-11, .prdct-blog-13,  .prdct-blog-15{
+  display: flex;
+  justify-content: center;
+  gap: 6rem; /* 20px */
+}
+
+.prdct-blog-2, .prdct-blog-4, .prdct-blog-6, .prdct-blog-8,
+.prdct-blog-10, .prdct-blog-12, .prdct-blog-14, .prdct-blog-16{
+  display: flex;
+  justify-content: center;
+  gap: 1.25rem; /* 20px */
+  padding-left: 6rem;
+}
+
+.prdct-blog-1 img, .prdct-blog-2 img, .prdct-blog-3 img, .prdct-blog-4 img,
+.prdct-blog-5 img, .prdct-blog-6 img, .prdct-blog-7 img, .prdct-blog-8 img,
+.prdct-blog-9 img, .prdct-blog-10 img, .prdct-blog-11 img, .prdct-blog-12 img,
+.prdct-blog-13 img, .prdct-blog-14 img, .prdct-blog-15 img, .prdct-blog-16 img {
+  width: 39.375rem; /* 630px */
+  height: auto;
+}
+
+.prdct-blog-1 h1, .prdct-blog-2 h1, .prdct-blog-3 h1, .prdct-blog-4 h1,
+.prdct-blog-5 h1, .prdct-blog-6 h1, .prdct-blog-7 h1, .prdct-blog-8 h1,
+.prdct-blog-9 h1, .prdct-blog-10 h1, .prdct-blog-11 h1, .prdct-blog-12 h1,
+.prdct-blog-13 h1, .prdct-blog-14 h1, .prdct-blog-15 h1, .prdct-blog-16 h1{
+  font-family: 'Poppins';
+  font-size: 2.25rem; /* 30px */
+  font-weight: 400;
+  color: black;
+}
+
+.prdct-blog-1 p, .prdct-blog-2 p, .prdct-blog-3 p, .prdct-blog-4 p,
+.prdct-blog-5 p, .prdct-blog-6 p, .prdct-blog-7 p, .prdct-blog-8 p,
+.prdct-blog-9 p, .prdct-blog-10 p, .prdct-blog-11 p, .prdct-blog-12 p,
+.prdct-blog-13 p, .prdct-blog-14 p, .prdct-blog-15 p, .prdct-blog-16 p{
+  font-family: 'Poppins';
+  font-size: 0.938rem; /* 30px */
+  color: black;
+  margin-bottom: 50px;
+}
+
+.prdct-blog-1 button, .prdct-blog-2 button, .prdct-blog-3 button, .prdct-blog-4 button,
+.prdct-blog-5 button, .prdct-blog-6 button, .prdct-blog-7 button, .prdct-blog-8 button,
+.prdct-blog-9 button, .prdct-blog-10 button, .prdct-blog-11 button, .prdct-blog-12 button,
+.prdct-blog-13 button, .prdct-blog-14 button, .prdct-blog-15 button, .prdct-blog-16 button{
+  font-family: 'Poppins';
+  font-size: 1.125rem; /* 18px */
+  font-weight: 600;
+  color: white;
+  padding: 0.46875rem 1.3828125rem; /* 7.5px 22.125px */
+  background-color: #c27729;
+  border-radius: 0.625rem; /* 10px */
+  border: none;
 }

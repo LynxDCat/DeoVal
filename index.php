@@ -7,8 +7,12 @@
 		$page = $_GET['page'];
 		
 		switch ($page){
-			case 'About':
-
+            case 'Contacts':
+                include "includes/contact.php";
+                break;
+			case 'Products':
+                include "includes/prdct-page-grid.php";
+                include "includes/prdct-page-blog.php";
 				break;
 		}
 	} 

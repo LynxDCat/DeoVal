@@ -1353,7 +1353,7 @@ textarea {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  width: 45% /* 3/4 of 45% */
+  width: 40% /* 3/4 of 45% */
 }
 .ab-mission h2, .ab-vision h2 {
   color: #2A3D32;
@@ -1371,7 +1371,7 @@ textarea {
   font-family: Poppins;
   font-size: 1.125rem; /* 3/4 of 1.5rem */
   font-style: normal;
-  font-weight: 400;33.7
+  font-weight: 400;
   line-height: normal;
 }
 .ab-divider {

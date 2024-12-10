@@ -1,5 +1,3 @@
-
-<hr class="hr-line" />
     <section class="main-overview">
       <article>
         <h1>Where Quality Meets Your Printing Needs</h1>

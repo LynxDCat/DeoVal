@@ -77,14 +77,15 @@ ul li {
 
 .hr-line {
   margin: 1.875rem 6.140625rem; /* 30px 98.25px */
-  margin-top: 148px;
+  margin-bottom: -0.1rem;
 }
 
 .main-overview {
   display: flex;
-  margin: 0 7.59375rem; /* 121.5px */
+  margin: 8.5rem 7.59375rem; /* 121.5px */
   justify-content: center;
-  
+  margin-bottom: -8.5rem;
+  height: 100vh;
 }
 
 .main-overview h1 {
@@ -845,4 +846,16 @@ footer{
 .footer-maps img{
     width: 251.25px;
     height: auto;
+}
+
+
+
+
+
+/*Products CSS*/
+.products-grid h1{
+  font-family: 'Poppins';
+  font-size: 54px;
+  font-weight: bold;
+  color: white;
 }

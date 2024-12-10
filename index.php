@@ -8,7 +8,7 @@
 		
 		switch ($page){
 			case 'About':
-                
+
 				break;
 		}
 	} 
@@ -19,6 +19,7 @@
         include "includes/lp-blog.php";
         include "includes/lp-contact.php";
         include "includes/lp-faq.php";
-        include "includes/footer.php";
 	}
+
+    include "includes/footer.php";
 ?>

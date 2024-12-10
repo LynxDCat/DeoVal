@@ -10,7 +10,9 @@
                 Custom-printed forms tailored for schools and offices, ensuring
                 seamless documentation and record-keeping.
             </p>
-            <button>Order Now</button>
+            <a href="index.php?page=Contact#lgit">
+                <button>Order Now</button>
+            </href=>
         </article>
     </section>
     <section class="prdct-blog-2">
@@ -20,7 +22,9 @@
                 Professionally designed and printed business cards to make a lasting
                 first impression.
             </p>
-            <button>Order Now</button>
+            <a href="index.php?page=Contact#lgit">
+                <button>Order Now</button>
+            </href=>
         </article>
         <img src="images/pr-2.png" alt="Calendars Image" />
     </section>
@@ -32,7 +36,9 @@
                 Eye-catching promotional materials ideal for marketing products,
                 services, or events.
             </p>
-            <button>Order Now</button>
+            <a href="index.php?page=Contact#lgit">
+                <button>Order Now</button>
+            </href=>
         </article>
     </section>
     <section class="prdct-blog-4">
@@ -42,7 +48,9 @@
                 Printed updates and stories to keep your community informed and
                 engaged.
             </p>
-            <button>Order Now</button>
+            <a href="index.php?page=Contact#lgit">
+                <button>Order Now</button>
+            </href=>
         </article>
         <img src="images/pr-4.png" alt="Calendars Image" />
     </section>
@@ -55,7 +63,9 @@
                 advertising efforts and enhance business campaigns, ensuring a
                 lasting impact and effective communication of your brand message.
             </p>
-            <button>Order Now</button>
+            <a href="index.php?page=Contact#lgit">
+                <button>Order Now</button>
+            </href=>
         </article>
     </section>
     <section class="prdct-blog-6">
@@ -65,7 +75,9 @@
                 Durable and specialized printing solutions for industrial labeling
                 and documentation.
             </p>
-            <button>Order Now</button>
+            <a href="index.php?page=Contact#lgit">
+                <button>Order Now</button>
+            </href=>
         </article>
         <img src="images/pr-6.png" alt="Calendars Image" />
     </section>
@@ -77,7 +89,9 @@
                 Vibrant and adhesive labels perfect for branding, packaging, or
                 organizational needs.
             </p>
-            <button>Order Now</button>
+            <a href="index.php?page=Contact#lgit">
+                <button>Order Now</button>
+            </href=>
         </article>
     </section>
     <section class="prdct-blog-8">
@@ -86,7 +100,9 @@
             <p>
                 Custom letterheads that enhance your brand's professional identity.
             </p>
-            <button>Order Now</button>
+            <a href="index.php?page=Contact#lgit">
+                <button>Order Now</button>
+            </href=>
         </article>
         <img src="images/pr-8.png" alt="Calendars Image" />
     </section>
@@ -98,7 +114,9 @@
                 Sleek and functional folders to organize and present documents
                 professionally.
             </p>
-            <button>Order Now</button>
+            <a href="index.php?page=Contact#lgit">
+                <button>Order Now</button>
+            </href=>
         </article>
     </section>
     <section class="prdct-blog-10">
@@ -109,7 +127,9 @@
                 perfect for events, promotional campaigns, or adding a creative
                 touch to your space as decorative elements.
             </p>
-            <button>Order Now</button>
+            <a href="index.php?page=Contact#lgit">
+                <button>Order Now</button>
+            </href=>
         </article>
         <img src="images/pr-10.png" alt="Calendars Image" />
     </section>
@@ -121,7 +141,9 @@
                 Beautifully bound publications capturing memorable moments or
                 stories.
             </p>
-            <button>Order Now</button>
+            <a href="index.php?page=Contact#lgit">
+                <button>Order Now</button>
+            </href=>
         </article>
     </section>
     <section class="prdct-blog-12">
@@ -131,7 +153,9 @@
                 Secure and stylish tickets designed for events, raffles, or
                 fundraisers.
             </p>
-            <button>Order Now</button>
+            <a href="index.php?page=Contact#lgit">
+                <button>Order Now</button>
+            </href=>
         </article>
         <img src="images/pr-12.png" alt="Calendars Image" />
     </section>
@@ -144,7 +168,9 @@
                 accuracy and sharp detail, ensuring professional results for all
                 your large-scale projects and business needs.
             </p>
-            <button>Order Now</button>
+            <a href="index.php?page=Contact#lgit">
+                <button>Order Now</button>
+            </href=>
         </article>
     </section>
     <section class="prdct-blog-14">
@@ -154,7 +180,9 @@
                 Cost-effective printing ideal for bulk production with consistent
                 results.
             </p>
-            <button>Order Now</button>
+            <a href="index.php?page=Contact#lgit">
+                <button>Order Now</button>
+            </href=>
         </article>
         <img src="images/pr-14.png" alt="Calendars Image" />
     </section>
@@ -166,7 +194,9 @@
                 Customized boxes designed for durable and attractive product
                 packaging.
             </p>
-            <button>Order Now</button>
+            <a href="index.php?page=Contact#lgit">
+                <button>Order Now</button>
+            </href=>
         </article>
     </section>
     <section class="prdct-blog-16">
@@ -176,7 +206,9 @@
                 Personalized calendars perfect for gifting or promotional use,
                 featuring sleek designs.
             </p>
-            <button>Order Now</button>
+            <a href="index.php?page=Contact#lgit">
+                <button>Order Now</button>
+            </href=>
         </article>
         <img src="images/pr-16.png" alt="Calendars Image" />
     </section>

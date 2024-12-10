@@ -18,8 +18,10 @@ nav .nav-content {
 }
 
 a {
-  text-decoration: none !important;
+  text-decoration: none;
+  color: inherit;
 }
+
 
 a:visited {
   color: white;
@@ -101,7 +103,7 @@ ul li {
 }
 
 .hero-offers {
-  margin-top: -1.96875rem; /* -31.5px */
+  margin-top: -0.7rem; /* -31.5px */
   display: flex;
   flex-direction: column;
   gap: 1.96875rem; /* 31.5px */
@@ -159,8 +161,8 @@ ul li {
 }
 
 .lp-abtus-container img {
-  height: 35.203125rem; /* 563.25px */
-  width: auto;
+  height: auto; /* 563.25px */
+  width: 40.172rem;
 }
 
 .lp-abtus-container h3 {
@@ -268,7 +270,21 @@ ul li {
 .lp-gal-container .lp-gal-cell5:hover button,
 .lp-gal-container .lp-gal-cell6:hover button,
 .lp-gal-container .lp-gal-cell7:hover button,
-.lp-gal-container .lp-gal-cell8:hover button {
+.lp-gal-container .lp-gal-cell8:hover button{
+  opacity: 1;
+  pointer-events: auto;
+  cursor: pointer;
+  border: none;
+}
+
+.lp-gal-container .lp-gal-cell1:hover button a,
+.lp-gal-container .lp-gal-cell2:hover button a,
+.lp-gal-container .lp-gal-cell3:hover button a,
+.lp-gal-container .lp-gal-cell4:hover button a,
+.lp-gal-container .lp-gal-cell5:hover button a,
+.lp-gal-container .lp-gal-cell6:hover button a,
+.lp-gal-container .lp-gal-cell7:hover button a,
+.lp-gal-container .lp-gal-cell8:hover button a{
   opacity: 1;
   pointer-events: auto;
   cursor: pointer;
@@ -536,6 +552,7 @@ ul li {
     background-color: #c27729;
     border-radius: 0.625rem; /* 10px */
     border: none;
+    cursor: pointer;
 }
 
 .lp-blog-2 {
@@ -566,6 +583,7 @@ ul li {
     background-color: #c27729;
     border-radius: 0.625rem; /* 10px */
     border: none;
+    cursor: pointer;
 }
 
 .landing-page-contact {
@@ -701,6 +719,7 @@ ul li {
     width: fit-content;
     margin-top: 6.1875rem; /* 99px */
     gap: 0.625rem; /* 10px */
+    cursor: pointer;
 }
 
 .landing-page-FAQ {

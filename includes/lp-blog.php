@@ -11,7 +11,9 @@
             From Pages to Packages: How DEOVAL Printing Services Adapted During
             the Pandemic
           </h1>
-          <button>See more</button>
+          <a href="index.php?page=Contact">
+            <button>See more</button>
+          </a>
         </article>
       </section>
       <section class="lp-blog-2">
@@ -20,18 +22,22 @@
             Efficient and Reliable: How DEOVAL Ensures Smooth Deliveries for
             Every Client
           </h1>
-          <button>See more</button>
+          <a href="index.php?page=Contact">
+            <button>See more</button>
+          </a>
         </article>
         <img src="images/blog-img-2.png" alt="Calendars Image" />
       </section>
       <section class="lp-blog-3">
-        <img src="images/img-placeholder.png" alt="Placeholder Image" />
+        <img src="images/blog-img-3.png" alt="Placeholder Image" />
         <article>
           <h1>
             Building Trust Through Quality: DEOVAL’s Journey with Immigration
             Services
           </h1>
-          <button>See more</button>
+          <a href="index.php?page=Contact">
+            <button>See more</button>
+          </a>
         </article>
       </section>
     </section>

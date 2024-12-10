@@ -10,6 +10,9 @@
 			case 'About':
 				break;
             case 'Blogs':
+                include "includes/bd-title.php";
+                include "includes/bd-package.php";
+                include "includes/bd-moreblogs-1.php";
                 break;
 		}
 	} 

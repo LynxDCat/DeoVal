@@ -7,7 +7,7 @@
 		$page = $_GET['page'];
 		
 		switch ($page){
-            case 'Contacts':
+            case 'Contact':
                 include "includes/contact.php";
                 break;
 			case 'Products':

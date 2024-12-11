@@ -8,7 +8,7 @@
     </section>
     <section class="bd-more-blogs-1">
         <img src="images/more-blog-img1.png" alt="Pandemic Blog Image 2" />
-        <p>From Pages to Packages: How DEOVAL Printing Services Adapted During the Pandemic</p>
+        <p>From Pages to Packages: How DEOVAL Printing Adapted During the Pandemic</p>
         <a href="index.php?page=Blogs"><button>See more</button></a>
     </section>
     <section class="bd-more-blogs-3">

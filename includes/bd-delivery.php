@@ -1,10 +1,16 @@
 <section id="Blog2" class="blog-detail">
     <section class="bd-fullcontainer">
     <div class="bd-container">
+    <figure class="bd-container1">
         <img src="images/blog2-img-1.png" alt="Delivery Blog Image 1" />
+        </figure>
+    <figure class="bd-container2">
         <img src="images/blog2-img-2.png" alt="Delivery Blog Image 2" />
+        </figure>
+    <figure class="bd-container3">
         <img src="images/blog2-img-3.png" alt="Delivery Blog Image 3" />
-    </div>  
+    </figure>  
+    </div>
         <article>
             <h1>Efficient and Reliable: How DEOVAL Ensures Smooth Deliveries for Every Client</h1>
             <p>At DEOVAL, providing top-quality printing and packaging solutions 

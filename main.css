@@ -974,3 +974,11 @@ footer {
   border-radius: 0.625rem; /* 10px / 16 */
   border: none;
 }
+
+.bd-container1:hover img,
+.bd-container2:hover img, 
+.bd-container3:hover img{
+  transition: 0.5s ease transform;
+  transform: scale(1.1);
+  box-shadow: 0 0.25rem 0.625rem rgba(0, 0, 0, 0.3);
+}

@@ -17,22 +17,61 @@ nav .nav-content {
   margin-bottom: 1.5rem; /* 35px */
 }
 
-.sticky-button {
+.sticky-button  {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 80px;
+  width: 80px;
   position: fixed;
   bottom: 20px;
   right: 20px;
   padding: 10px 20px;
-  background-color: #007BFF;
   color: white;
   border: none;
-  border-radius: 5px;
+  border-radius: 50px;
   font-size: 16px;
   cursor: pointer;
+  margin-right: 40px;
+  margin-bottom: 20px;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
   transition: background-color 0.3s ease;
+  z-index: 1002;
+
+}
+
+.sticky-button:after {
+	position: absolute;
+	content: '';
+	height: 100%;
+	width: 100%;
+	border-radius: 50%;
+	border: 5px solid #c27729;
+	animation: hamburger_puls 1s ease infinite;
+}
+@keyframes hamburger_puls {
+	0% {
+		opacity: 1;
+		transform: scale(1);
+	}
+	100% {
+		opacity: 0;
+		transform: scale(1.4);
+	}
+}
+.sticky-button img{
+  height: 70px;
+  width: auto;
+  transform: scale(1.33);
 }
 .sticky-button:hover {
-  background-color: #0056b3;
+  transform: scale(1.1);
+  opacity: 1;
+  pointer-events: auto;
+  cursor: pointer;
+  border: none;
+  box-shadow: 0 0.25rem 0.625rem rgba(0, 0, 0, 0.3);
+ 
 }
 
 a {
@@ -682,7 +721,16 @@ ul li {
   justify-content: center;
   align-items: center;
 }
-
+.lp-contact-loc-details:hover,
+.lp-contact-fb-details:hover,
+.lp-contact-email-details:hover,
+.lp-contact-phone-details:hover {
+  transform: scale(1.1);
+  opacity: 1;
+  pointer-events: auto;
+  cursor: pointer;
+  border: none;
+}
 .lp-contact-loc-details .lp-contact-loc-icon {
   display: flex;
   height: 6.9375rem; /* 111px */
@@ -1179,31 +1227,6 @@ footer {
   gap: 6rem; /* 20px */
 }
 
-.prdct-blog-1 button:hover,
-.prdct-blog-2 button:hover, 
-.prdct-blog-3 button:hover, 
-.prdct-blog-4 button:hover,
-.prdct-blog-5 button:hover,  
-.prdct-blog-6 button:hover,
-.prdct-blog-7 button:hover,
-.prdct-blog-8 button:hover, 
-.prdct-blog-9 button:hover,
-.prdct-blog-10 button:hover,  
-.prdct-blog-11 button:hover,
-.prdct-blog-12 button:hover, 
-.prdct-blog-13 button:hover,
-.prdct-blog-14 button:hover,
-.prdct-blog-15 button:hover,  
-.prdct-blog-16 button:hover{
-  background-color: #a56720;
-  transform: scale(1.1);
-  opacity: 1;
-  pointer-events: auto;
-  cursor: pointer;
-  border: none;
-  box-shadow: 0 0.25rem 0.625rem rgba(0, 0, 0, 0.3);
-}
-
 .prdct-blog-2, .prdct-blog-4, .prdct-blog-6, .prdct-blog-8,
 .prdct-blog-10, .prdct-blog-12, .prdct-blog-14, .prdct-blog-16{
   display: flex;
@@ -1241,27 +1264,13 @@ footer {
   text-align: justify;
 }
 
-.prdct-blog-1 button, .prdct-blog-2 button, .prdct-blog-3 button, .prdct-blog-4 button,
-.prdct-blog-5 button, .prdct-blog-6 button, .prdct-blog-7 button, .prdct-blog-8 button,
-.prdct-blog-9 button, .prdct-blog-10 button, .prdct-blog-11 button, .prdct-blog-12 button,
-.prdct-blog-13 button, .prdct-blog-14 button, .prdct-blog-15 button, .prdct-blog-16 button{
-  font-family: 'Poppins';
-  font-size: 1.125rem; /* 18px */
-  font-weight: 600;
-  color: white;
-  padding: 0.46875rem 1.3828125rem; /* 7.5px 22.125px */
-  background-color: #c27729;
-  border-radius: 0.625rem; /* 10px */
-  border: none;
-}
-
 .container-contact {
   display: flex;
   flex-wrap: wrap;
   background-color: white;
   padding: 9.421875rem 11.109375rem;
   justify-content: space-between;
-  margin-top: 1rem;
+  margin-top: 4rem;
   font-family: 'Poppins', sans-serif;
 }
 

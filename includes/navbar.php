@@ -32,5 +32,5 @@
     </nav>
   </header>
   <a href="index.php?page=Contact#lgit">
-    <button class="sticky-button">Order Now!</button>
+    <button class="sticky-button"> <img src="images/MessUs.png" alt=""></button>
   </a>

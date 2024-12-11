@@ -14,7 +14,7 @@ if (isset($_GET['page'])) {
             include "includes/aboutus-title.php";
             include "includes/aboutus.php";
             break;
-        case 'Products':
+        case 'Product':
             include "includes/prdct-page-grid.php";
             include "includes/prdct-page-blog.php";
             break;

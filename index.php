@@ -56,7 +56,5 @@ if (isset($_GET['page'])) {
     include "includes/lp-contact.php";
     include "includes/lp-faq.php";
 }
-
 include "includes/footer.php";
-
-include "includes/footer.php";
+?>

@@ -14,7 +14,7 @@
               <a href="index.php?page=About">About</a>
             </li>
             <li>
-              <a href="index.php?page=Products">Products</a>
+              <a href="index.php?page=Product">Products</a>
             </li>
             <li>
               <a href="index.php?page=Blogs">Blogs</a>

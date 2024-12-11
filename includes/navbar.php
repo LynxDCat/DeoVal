@@ -28,5 +28,6 @@
           </ul>
         </div>
       </div>
+      <hr class="hr-line" />
     </nav>
   </header>

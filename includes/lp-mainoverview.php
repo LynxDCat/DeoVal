@@ -61,7 +61,7 @@
         </ul>
 
         <div class="hero-btns">
-          <a href="index.php?page=Contact#lgit">
+          <a href="index.php?page=Product">
           <button class="hero-order-btn">
             <svg
               width="36"

@@ -10,7 +10,7 @@
         excellence for every project. Let us bring your printing needs to
         life!
       </p>
-      <a href="index.php?page=LPAbout#AboutUsInfo">
+      <a href="index.php?page=About#AboutUsInfo">
         <button>See more</button>
       </a>
     </article>

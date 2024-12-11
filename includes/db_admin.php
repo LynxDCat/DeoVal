@@ -25,7 +25,7 @@ if (isset($_POST["submit"])) {
 
     // Check if any row matches the credentials
     if ($result->num_rows > 0) {
-        echo "You are in!";
+        header("Location: ../includes/get_db.php");
     } else {
         echo "Wrong credentials";
     }

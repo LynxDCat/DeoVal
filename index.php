@@ -14,6 +14,10 @@ if (isset($_GET['page'])) {
             include "includes/aboutus-title.php";
             include "includes/aboutus.php";
             break;
+        case 'LPAbout':
+            include "includes/aboutus-title.php";
+            include "includes/aboutus.php";
+            break;
         case 'Products':
             include "includes/prdct-page-grid.php";
             include "includes/prdct-page-blog.php";
@@ -24,7 +28,6 @@ if (isset($_GET['page'])) {
             include "includes/bd-moreblogs-1.php";
             break;
         case 'Blogs1':
-
             include "includes/bd-package.php";
             include "includes/bd-moreblogs-1.php";
             break;
@@ -32,12 +35,10 @@ if (isset($_GET['page'])) {
             include "includes/bd-delivery.php";
             include "includes/bd-moreblogs-2.php";
             break;
-
         case 'Blogs3':
             include "includes/bd-immigration.php";
             include "includes/bd-moreblogs-3.php";
             break;
-
         case 'Blogs4':
             include "includes/bd-process.php";
             include "includes/bd-moreblogs-4.php";

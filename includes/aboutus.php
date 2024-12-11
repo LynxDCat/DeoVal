@@ -1,5 +1,5 @@
 <main>
-  <section class="ab-founders-section">
+  <section id="AboutUsInfo" class="ab-founders-section">
     <img src="images/founder.png" alt=founders />
 
     <section class="ab-profile-container">

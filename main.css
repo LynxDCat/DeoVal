@@ -769,15 +769,32 @@ ul li {
 .lp-FAQ-12 {
   padding: 0 0.984375rem; /* 15.75px */
   display: flex;
+  flex-direction: column;
   align-items: center;
   border: 0.3125rem solid black; /* 5px */
   border-radius: 0.9375rem; /* 15px */
   width: 35.625rem; /* 570px */
-  height: 3.515625rem; /* 56.25px */
+  height: 11.719rem; /* 56.25px */
   font-family: "Poppins";
   font-size: 1.125rem; /* 18px */
   font-weight: 600;
 }
+
+.lp-FAQ-1 .desc,
+.lp-FAQ-2 .desc,
+.lp-FAQ-3 .desc,
+.lp-FAQ-4 .desc,
+.lp-FAQ-5 .desc,
+.lp-FAQ-6 .desc,
+.lp-FAQ-7 .desc,
+.lp-FAQ-8 .desc,
+.lp-FAQ-9 .desc,
+.lp-FAQ-10 .desc,
+.lp-FAQ-11 .desc,
+.lp-FAQ-12 .desc{
+  font-weight: 400;
+}
+
 
 .lp-FAQ-1 svg,
 .lp-FAQ-2 svg,

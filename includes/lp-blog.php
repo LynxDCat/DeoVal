@@ -8,10 +8,10 @@
         <img src="images/blog-img-1.png" alt="Packages Image" />
         <article>
           <h1>
-            From Pages to Packages: How DEOVAL Printing Services Adapted During
+            From Pages to Packages: How DEOVAL Printing Adapted During
             the Pandemic
           </h1>
-          <a href="index.php?page=Contact">
+          <a href="index.php?page=Blogs1">
             <button>See more</button>
           </a>
         </article>
@@ -22,7 +22,7 @@
             Efficient and Reliable: How DEOVAL Ensures Smooth Deliveries for
             Every Client
           </h1>
-          <a href="index.php?page=Contact">
+          <a href="index.php?page=Blogs2">
             <button>See more</button>
           </a>
         </article>
@@ -33,9 +33,8 @@
         <article>
           <h1>
             Building Trust Through Quality: DEOVAL’s Journey with Immigration
-            Services
           </h1>
-          <a href="index.php?page=Contact">
+          <a href="index.php?page=Blogs3">
             <button>See more</button>
           </a>
         </article>

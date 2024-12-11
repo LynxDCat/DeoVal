@@ -61,6 +61,7 @@
         </ul>
 
         <div class="hero-btns">
+          <a href="index.php?page=Contact#lgit">
           <button class="hero-order-btn">
             <svg
               width="36"
@@ -79,7 +80,11 @@
             </svg>
             Order
           </button>
-          <button class="hero-more-btn">Learn More</button>
+          </a>
+          <a href="index.php?page=About">
+            <button class="hero-more-btn">Learn More</button>
+          </a>
+          
         </div>
       </article>
       <section class="hero-img">

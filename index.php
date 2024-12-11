@@ -14,10 +14,6 @@ if (isset($_GET['page'])) {
             include "includes/aboutus-title.php";
             include "includes/aboutus.php";
             break;
-        case 'LPAbout':
-            include "includes/aboutus-title.php";
-            include "includes/aboutus.php";
-            break;
         case 'Products':
             include "includes/prdct-page-grid.php";
             include "includes/prdct-page-blog.php";

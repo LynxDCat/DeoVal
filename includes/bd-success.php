@@ -1,9 +1,15 @@
 <section id="Blog5" class="blog-detail">
     <section class="bd-fullcontainer">
     <div class="bd-container">
+    <figure class="bd-container1">
         <img src="images/blog5-img-1.png" alt="Success Blog Image 1" />
+        </figure>
+    <figure class="bd-container2">
         <img src="images/blog5-img-2.png" alt="Success Blog Image 2" />
+        </figure>
+    <figure class="bd-container3">
         <img src="images/blog5-img-3.png" alt="Success Blog Image 3" />
+    </figure>  
     </div>  
         <article>
             <h1>The Story Behind DEOVAL: From Humble Beginnings to Thriving Success</h1>

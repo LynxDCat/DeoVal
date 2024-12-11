@@ -1,13 +1,19 @@
 <section id="Blog1" class="blog-detail">
     <section class="bd-fullcontainer">
     <div class="bd-container">
-        <img src="images/blog1-img-1.png" alt="Pandemic Blog Image 1" />
-        <img src="images/blog1-img-2.png" alt="Pandemic Blog Image 2" />
-        <img src="images/blog1-img-3.png" alt="Pandemic Blog Image 3" />
-    </div>  
+    <figure class="bd-container1">
+        <img src="images/blog1-img-1.png" alt="Package Blog Image 1" />
+        </figure>
+    <figure class="bd-container2">
+        <img src="images/blog1-img-3.png" alt="Package Blog Image 2" />
+        </figure>
+    <figure class="bd-container3">
+        <img src="images/blog1-img-2.png" alt="Package Blog Image 3" />
+    </figure>  
+    </div>
         <article>
             <h1>From Pages to Packages: How DEOVAL Printing
-                Services Adapted During the Pandemic</h1>
+                Adapted During the Pandemic</h1>
             <p>During the pandemic, DEOVAL, a trusted name
                 in printing services, faced significant challenges
                 as the demand for traditional paper printing declined

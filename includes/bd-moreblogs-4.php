@@ -8,13 +8,13 @@
     </section>
     <section class="bd-more-blogs-3">
         <img src="images/more-blog-img3.png" alt="Pandemic Blog Image 2" />
-        <p>Building Trust Through Quality: DEOVAL’s Journey with Immigration Services</p>
+        <p>Building Trust Through Quality: DEOVAL’s Journey with Immigration</p>
         <a href="index.php?page=Blogs3"><button>See more</button></a>
     </section>
     <section class="bd-more-blogs-1">
         <img src="images/more-blog-img1.png" alt="Pandemic Blog Image 3" />
-        <p>From Pages to Packages: How DEOVAL Printing Services Adapted During the Pandemic</p>
-        <a href="index.php?page=Blogs"><button>See more</button></a>
+        <p>From Pages to Packages: How DEOVAL Printing Adapted During the Pandemic</p>
+        <a href="index.php?page=Blogs1"><button>See more</button></a>
     </section>
     <section class="bd-more-blogs-5">
         <img src="images/more-blog-img5.png" alt="Pandemic Blog Image 2" />

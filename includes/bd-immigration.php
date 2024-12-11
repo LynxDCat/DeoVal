@@ -1,12 +1,18 @@
 <section id="Blog3" class="blog-detail">
     <section class="bd-fullcontainer">
     <div class="bd-container">
+    <figure class="bd-container1">
         <img src="images/blog3-img-1.png" alt="Immigration Blog Image 1" />
+        </figure>
+    <figure class="bd-container2">
         <img src="images/blog3-img-2.png" alt="Immigration Blog Image 2" />
+        </figure>
+    <figure class="bd-container3">
         <img src="images/blog3-img-3.png" alt="Immigration Blog Image 3" />
-    </div>  
+    </figure>  
+    </div>
         <article>
-            <h1>Building Trust Through Quality: DEOVAL’s Journey with Immigration Services</h1>
+            <h1>Building Trust Through Quality: DEOVAL’s Journey with Immigration</h1>
             <p>In 2023, DEOVAL received a unique challenge: fulfilling an order for the 
                 immigration sector. It started as a trial, with a tight lead time of two months. 
                 Through careful planning, clear communication, and dedication, DEOVAL successfully 

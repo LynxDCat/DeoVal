@@ -1,10 +1,16 @@
 <section id="Blog4" class="blog-detail">
     <section class="bd-fullcontainer">
     <div class="bd-container">
+    <figure class="bd-container1">
         <img src="images/blog4-img-1.png" alt="Process Blog Image 1" />
-        <img src="images/blog4-img-2.png" alt="Process Blog Image 2" />
-        <img src="images/blog4-img-3.png" alt="Process Blog Image 3" />
-    </div>  
+        </figure>
+    <figure class="bd-container2">
+        <img src="images/blog4-img-3.png" alt="Process Blog Image 2" />
+        </figure>
+    <figure class="bd-container3">
+        <img src="images/blog4-img-2.png" alt="Process Blog Image 3" />
+    </figure>  
+    </div> 
         <article>
             <h1>Keeping the Wheels Turning: How DEOVAL Maintains Efficiency in Operations</h1>
             <p>At DEOVAL, smooth operations are a priority, and our dedication to 

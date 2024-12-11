@@ -58,3 +58,5 @@ if (isset($_GET['page'])) {
 }
 
 include "includes/footer.php";
+
+include "includes/footer.php";

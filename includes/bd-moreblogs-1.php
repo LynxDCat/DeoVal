@@ -8,7 +8,7 @@
     </section>
     <section class="bd-more-blogs-3">
         <img src="images/more-blog-img3.png" alt="Pandemic Blog Image 2" />
-        <p>Building Trust Through Quality: DEOVAL’s Journey with Immigration Services</p>
+        <p>Building Trust Through Quality: DEOVAL’s Journey with Immigration</p>
         <a href="index.php?page=Blogs3"><button>See more</button></a>
     </section>
     <section class="bd-more-blogs-4">

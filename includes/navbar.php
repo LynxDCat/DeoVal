@@ -31,3 +31,6 @@
       <hr class="hr-line" />
     </nav>
   </header>
+  <a href="index.php?page=Contact#lgit">
+    <button class="sticky-button">Click Me!</button>
+  </a>

@@ -92,7 +92,7 @@
 <div id="lgit" class="container-contact">
   <div class="form-section">
     <h1>Let’s Get In Touch</h1>
-    <form action="contact.php" method="POST">
+    <form action="includes/database.php" method="POST">
       <div class="input-group">
         <div class="field">
           <label for="first_name">First Name*</label>
@@ -106,7 +106,7 @@
       <div class="input-group">
         <div class="field">
           <label for="phone">Your Phone*</label>
-          <input type="tel" id="phone" name="phone" placeholder="+31 2929 29xxx" required>
+          <input type="tel" maxlength="11" pattern="\d{11}" id="phone" name="phone" placeholder="09xx xxx xxxx" required>
         </div>
         <div class="field">
           <label for="email">Your Email*</label>
@@ -117,7 +117,7 @@
         <label for="message">Message*</label>
         <textarea id="message" name="message" placeholder="Enter message" required></textarea>
       </div>
-      <button type="submit" class="btn">Send Message</button>
+      <button type="submit" name="submit" value="Submit" class="btn">Send Message</button>
     </form>
   </div>
   <div class="info-section">

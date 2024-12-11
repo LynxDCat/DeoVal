@@ -32,5 +32,5 @@
     </nav>
   </header>
   <a href="index.php?page=Contact#lgit">
-    <button class="sticky-button">Click Me!</button>
+    <button class="sticky-button">Order Now!</button>
   </a>

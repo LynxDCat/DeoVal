@@ -21,12 +21,12 @@ if (isset($_GET['page'])) {
             include "includes/prdct-page-blog.php";
             break;
 
-            case 'Blogs':
-                include "includes/bd-title.php";
-                include "includes/bd-package.php";
-                include "includes/bd-moreblogs-1.php";
-                break;
-    
+        case 'Blogs':
+            include "includes/bd-title.php";
+            include "includes/bd-package.php";
+            include "includes/bd-moreblogs-1.php";
+            break;
+
         case 'Blogs1':
             include "includes/bd-package.php";
             include "includes/bd-moreblogs-1.php";
@@ -54,14 +54,12 @@ if (isset($_GET['page'])) {
 
         case 'FAQs':
             include "includes/faq-page.php";
-            break;    
+            break;
     }
 } else {
     include "includes/lp-mainoverview.php";
     include "includes/lp-abtus.php";
     include "includes/lp-gallery.php";
     include "includes/lp-blog.php";
-
 }
 include "includes/footer.php";
-?>

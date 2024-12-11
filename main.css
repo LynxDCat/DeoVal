@@ -291,6 +291,7 @@ ul li {
 .lp-abtus-container p {
   font-family: Poppins;
   font-size: 1.125rem;
+  text-align: justify;
 }
 
 .lp-abtus-container button {
@@ -764,6 +765,7 @@ ul li {
 .lp-contact-email-details:hover,
 .lp-contact-phone-details:hover {
   transform: scale(1.1);
+  transition: .7s ease;
   opacity: 1;
   pointer-events: auto;
   cursor: pointer;
@@ -1111,6 +1113,7 @@ footer {
 .prdct-packaging:hover,
 .prdct-calendar:hover {
   transform: scale(1.1);
+  transition: .7s ease;
   opacity: 1;
   pointer-events: auto;
   cursor: pointer;

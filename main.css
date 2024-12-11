@@ -17,6 +17,24 @@ nav .nav-content {
   margin-bottom: 1.5rem; /* 35px */
 }
 
+.sticky-button {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  padding: 10px 20px;
+  background-color: #007BFF;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: background-color 0.3s ease;
+}
+.sticky-button:hover {
+  background-color: #0056b3;
+}
+
 a {
   text-decoration: none;
   color: inherit;
@@ -137,7 +155,7 @@ ul li {
 }
 
 .hero-btns .hero-more-btn {
-  padding: 0.46875rem 1.40625rem; /* 7.5px 22.5px */
+  padding: 0.7555rem 1.40625rem; /* 7.5px 22.5px */
   font-family: "Poppins";
   font-size: 1.125rem; /* 18px */
   font-weight: 600;

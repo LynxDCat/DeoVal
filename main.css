@@ -46,10 +46,10 @@ nav .nav-content {
   width: 100%;
   border-radius: 50%;
   border: 5px solid #c27729;
-  animation: hamburger_puls 1s ease infinite;
+  animation: msg 1s ease infinite;
 }
 
-@keyframes hamburger_puls {
+@keyframes msg {
   0% {
     opacity: 1;
     transform: scale(1);

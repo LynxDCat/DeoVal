@@ -1,6 +1,6 @@
     <section class="main-overview">
       <article>
-        <h1>Where Quality Meets Your Printing Needs</h1>
+        <h1>Where Quality Meets <span> Your Printing Needs</span></h1>
         <ul class="hero-offers">
           <li>
             <svg

@@ -166,6 +166,9 @@ Jay Ruiz de Ocampo
   </div>
   <div class="maps-section">
     <h1>Maps</h1>
+    <a href="https://www.google.com/maps/place/Deoval+Printing+Service/@14.6095093,120.9934711,17z/data=!3m1!4b1!4m6!3m5!1s0x3397b6021d344843:0xf5f6e35b26f07298!8m2!3d14.6095093!4d120.9934711!16s%2Fg%2F11f4qhlgmk?entry=ttu&g_ep=EgoyMDI0MTIwOC4wIKXMDSoASAFQAw%3D%3D">
     <img src="images/map.png" alt="Maps" class="map-picture">
+    </a>
+    </div>
   </div>
 </div>

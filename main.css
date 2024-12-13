@@ -170,11 +170,16 @@ ul li {
 }
 
 .main-overview {
+  background-image: url('images/hero.png');
+  background-position: center; /* Centers the image horizontally and vertically */
+  background-repeat: no-repeat; /* Prevents tiling */
+  background-size: 100% 100%;
   display: flex;
-  margin: 8.5rem 7.59375rem;
+  margin: 8.5rem 0;
   justify-content: center;
   margin-bottom: -8.5rem;
   height: 100vh;
+  z-index: 1;
 }
 
 .main-overview h1 {
@@ -182,18 +187,22 @@ ul li {
   font-size: 3.375rem;
   font-weight: bold;
   color: white;
+  padding-left: 9rem;
+  
 }
 
 .main-overview .hero-img img {
-  height: 35.03125rem;
+  height: 30rem;
   width: auto;
+  padding-right: 9rem;
+  padding-top: 2rem;
 }
 
 .hero-offers {
   margin-top: -0.7rem;
   display: flex;
   flex-direction: column;
-  gap: 1.96875rem;
+  gap: 1rem;
 }
 
 .hero-offers li {
@@ -202,12 +211,14 @@ ul li {
   font-size: 0.9375rem;
   color: white;
   align-items: center;
+  padding-left: 7rem;
 }
 
 .hero-btns {
   display: flex;
   margin-top: 1.96875rem;
   gap: 1rem;
+  padding-left: 9rem;
 }
 
 .hero-btns .hero-order-btn {
@@ -382,7 +393,6 @@ ul li {
   height: 81.328125rem;
   position: relative;
 }
-
 .lp-gal-container .lp-gal-cell1 img {
   position: absolute;
   width: 27.75rem;
@@ -1384,7 +1394,7 @@ textarea {
 }
 
 .info-section {
-  background-color: #f9f9f9;
+  background-color: #c27729;
   padding: 20px;
   border-radius: 10px;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.5);
@@ -1393,13 +1403,13 @@ textarea {
 .info-section h2 {
   font-size: 1.5rem;
   font-weight: 600;
-  color: #333;
+  color: #fff;
   margin-bottom: 15px;
 }
 
 .info-section p {
   font-size: 14px;
-  color: #555;
+  color: #fff;
   line-height: 1.5;
   margin-bottom: 10px;
 }

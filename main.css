@@ -171,8 +171,8 @@ ul li {
 
 .main-overview {
   background-image: url('images/hero.png');
-  background-position: center; /* Centers the image horizontally and vertically */
-  background-repeat: no-repeat; /* Prevents tiling */
+  background-position: center; 
+  background-repeat: no-repeat; 
   background-size: 100% 100%;
   display: flex;
   margin: 8.5rem 0;
